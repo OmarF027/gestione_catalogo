@@ -1,0 +1,1 @@
+Questo programma — sviluppato in Python — permette di gestire un catalogo di libri, consentendo di aggiungere, modificare, visualizzare ed eliminare libri. Inoltre, calcola il totale di uno scontrino e applica uno sconto fedeltà in base agli anni di relazione con il cliente.
